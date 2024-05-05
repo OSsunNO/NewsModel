@@ -3,7 +3,7 @@ This repository contains AI models developed to simplify complex news articles, 
 ## Overview
 
 **'Jupyter Notebook' folder**
-  1) KoBERT_FineTuning_HardSentence_Classification.ipynb - Implementation Code of KoBert model which is fine-tuned for classifying hard sentences from news articles
+  1) KoBERT_FineTuning_HardSentence_Classification.ipynb - Implementation Code of KoBERT model which is fine-tuned for classifying hard sentences from news articles
   2) Similarity_Based_Sentence_Labeling.ipynb - Implementation Code of Word2Vec model which is used to make labels for the sentences in news articles
 
 **'Data' folder**
