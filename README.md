@@ -11,5 +11,9 @@ This repository contains AI models developed to simplify complex news articles, 
 ## Demonstration Video
 [![Video Label](http://img.youtube.com/vi/rmYe9K8j9O4/0.jpg)](https://www.youtube.com/watch?v=rmYe9K8j9O4)
 
+## Link to the GitHub for Chrome-Extension Application
+
+[Here](https://github.com/Hackathon-NewsEz/chrome_extension)
+
 
 
